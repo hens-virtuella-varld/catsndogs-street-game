@@ -1,7 +1,17 @@
-### Things to do
+# Cats & Dogs Street Game
+This game contains three sub-games.
+As long as the users survive from one game, they have the chances to experience other games.
+Which games the users will play is random.
+However, if the users die from the game, they always can play again so they have the chances to try other games.
 
-- [x] Overlay on page 1 / Amin
-- [ Helena Larsson ] Animation page 1 (introduction of dog and cat)
-- [x] Page 2: doors, making doors clickable and randomized, connect other games.  -Max
-- [x] Style page 3 (padding on questions) / Amin
-- [x] style page 4 (scoreboard, where code is being displayed and how it looks). Gustav (tried the whole night, probably all the wrong ways but i could not manage to make it work :)...... :( / Regan
+## Game 1
+A classic game, "Rock-Paper-Scissors".
+In this game, we call it "Cat-Mouse-Dog".
+
+## Game 2
+Another classic game, "Guess Number: Higher or Lower".
+We provide users 10 chances to guess a number between 0 - 40.
+
+## Game 3
+A question game to test the user's knowledge.
+To get different kinds of questions, we use a public API from: https://the-trivia-api.com/
